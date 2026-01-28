@@ -19,6 +19,9 @@ Tailwind CSS cheat sheet: https://nerdcave.com/tailwind-cheat-sheet
 More of a guide then a cheat sheet, but here's one for React: https://github.com/HassanHabibTahir/React-cheatsheet
 (as a side note, personal websites, and especially homepages, won't need anything super complicated in React)
 
+Next/Link is great for adding links: https://nextjs.org/docs/app/api-reference/components/link
+Next/Image is great for adding images: https://nextjs.org/docs/app/api-reference/components/image
+
 # Getting Started
 1. Fork this repo. Ensure your fork is public.
 2. Work on the website. The main page lives under page.tsx. For more on the structure of a project, visit https://nextjs.org/docs/app/getting-started/project-structure for details.
@@ -33,7 +36,3 @@ More of a guide then a cheat sheet, but here's one for React: https://github.com
 3. What's your favorite part of the website you've made? What needs improvement?
 
 4. Where would you take your website in the future? Talk about additonal sections, aspirations, etc.
-
-
-
-
