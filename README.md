@@ -44,6 +44,9 @@ You can run either by prepending `npm run <script>` to them. For example, `npm r
 4. Thats it! Have fun! We'll look at forks from the main repo to ensure valid entries into the raffle.
 
 # Questions - MUST ANSWER TO BE ENTERED INTO RAFFLE!
+
+Name: Lillian
+
 1. Briefly describe everything you've added on from the starter template. 
 
 I added descriptions of myself and my contact information. 
