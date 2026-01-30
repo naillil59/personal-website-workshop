@@ -78,9 +78,9 @@ export default function Home() {
     >
       <div
         ref={dvdRef}
-        className="absolute left-0 top-0 text-4xl font-semibold uppercase"
+        className="absolute left-0 top-0 text-4xl font-semibold uppercase pink"
       >
-        My awesome and cool website
+        Lillian Wu
       </div>
     </div>
   );

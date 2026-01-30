@@ -44,10 +44,18 @@ You can run either by prepending `npm run <script>` to them. For example, `npm r
 4. Thats it! Have fun! We'll look at forks from the main repo to ensure valid entries into the raffle.
 
 # Questions - MUST ANSWER TO BE ENTERED INTO RAFFLE!
-1. Briefly describe everything you've added on from the starter template.
+1. Briefly describe everything you've added on from the starter template. 
 
-2. What's the first impression you want a website visitor to have about you? How does your website accomplish that?
+I added descriptions of myself and my contact information. 
 
-3. What's your favorite part of the website you've made? What needs improvement?
+2. What's the first impression you want a website visitor to have about you? How does your website accomplish that? 
 
-4. Where would you take your website in the future? Talk about additonal sections, aspirations, etc.
+I want my website visitor to think that my favorite color is pink and that I like cute things. I hope to accomplish this by adding a pastel pink theme to my website along with adding drawings of some of my favorite characters (pusheen, sumikko gurashi, etc.). 
+
+3. What's your favorite part of the website you've made? What needs improvement? 
+
+I'm glad I got the description of myself done, but I definitely need more time to work on all of the pages to make it fit my aesthetic.
+
+4. Where would you take your website in the future? Talk about additonal sections, aspirations, etc. 
+
+I want to add videos going in-depth about some of the projects that I've made and add them to the projects section.

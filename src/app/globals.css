@@ -1,5 +1,13 @@
 @import "tailwindcss";
 
+@font-face {
+  font-family: "pixel";
+  src:  url('/Silkscreen/slkscr.ttf') format('ttf'),
+        url('/Silkscreen/slkscrb.ttf') format('ttf'),
+        url('/Silkscreen/slkscre.ttf') format('ttf'),
+        url('/Silkscreen/slkscreb.ttf') format('ttf');
+}
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
@@ -23,4 +31,12 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+}
+
+.pink {
+  color: #E6BADC;
+}
+
+.body-text {
+  margin: 3%;
 }
